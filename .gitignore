@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data
+scripts/book_code/spark_streaming/checkpoint/*
+scripts/book_code/spark_streaming/stateful/*
+
+
 # C extensions
 *.so
 
