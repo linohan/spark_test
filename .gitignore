@@ -7,6 +7,7 @@ __pycache__/
 scripts/book_code/spark_streaming/checkpoint/*
 scripts/book_code/spark_streaming/stateful/*
 scripts/book_code/structured_streaming/tmp/*
+scripts/book_code/spark_mllib/adult/*
 
 # C extensions
 *.so
